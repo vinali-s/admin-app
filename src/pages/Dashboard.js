@@ -118,7 +118,7 @@ const Dashboard = () => {
       <div className="d-flex justify-content-between align-items-center gap-3">
         <div className="d-flex justify-content-between align-items-end flex-grow-1 bg-white p-3 roudned-3">
           <div>
-            <p className="desc">Total</p>
+            <p className="desc ">Total</p>
             <h4 className="mb-0 sub-title">$1100</h4>
           </div>
           <div className="d-flex flex-column align-items-end">
